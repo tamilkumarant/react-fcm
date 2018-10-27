@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "710113014850",
+    "firebase_url": "https://bgapp-91f07.firebaseio.com",
+    "project_id": "bgapp-91f07",
+    "storage_bucket": "bgapp-91f07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710113014850:android:e31a7e8d4fb779f2",
+        "android_client_info": {
+          "package_name": "com.bg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710113014850-lq0s5fg28ep938n5282sel9me7smqlpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYeWU9q6EQGmkeGOoMubwM0DByqeOxfBc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
